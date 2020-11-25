@@ -1,0 +1,40 @@
+body{
+  margin: 20px 500px 20px 500px;
+  text-align: center;
+  outline-style: solid;
+  outline-width: thin;
+  }
+h1{
+  font-size: 24px ;
+  font-weight: bold;
+  margin: 20px;
+  padding-top: 20px;
+}
+.clickcount{
+  font-size: 18px;
+  font-weight:normal;
+}
+.reset{
+  margin: 20px;
+  width:80px;
+  height:40px;
+  background-color: #d81010;
+  font-size: 14px ;
+  color: white;
+  font-weight: bold;
+}
+.click{
+  margin: 20px;
+  width:80px;
+  height:40px;
+  background-color: #026f02;
+  font-size: 14px ;
+  color: white;
+  font-weight:bold;
+
+}
+.count{
+  border-width:0;
+  border:none;
+  outline: none;
+}
